@@ -2,7 +2,7 @@
 Unity Visual Scripting Unit class but with MonoBehaviour
 
 I don't know about its performance <br>
-Just inherit from MonoBehaviourUnit class instead of unit class
+Just inherit from MonoBehaviourUnit class instead of unit class (InputTrigger is no longer required for this unit)
 ```csharp
 using UnityEngine;
 using VSExtension.Nodes;
